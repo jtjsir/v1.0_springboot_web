@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.jing.springboot</groupId>
-	<artifactId>TestSpringBoot</artifactId>
+	<artifactId>springbootDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>TestSpringBoot</name>
+	<name>springbootDemo</name>
 	<url>https://mvnrepository.com</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
